@@ -1,0 +1,33 @@
+{
+    "screenMap": {
+        "ExampleFirstScreen": {
+            "labelMap": {
+                "ExampleFirstLabelName": {
+                    "value": "value",
+                    "property": {
+                        "fontName": "fontName",
+                        "size": 0.0
+                    }
+                },
+                "ExampleSecondLabelName": {
+                    "value": "value",
+                    "property": {
+                        "fontName": "fontName",
+                        "size": 0.0
+                    }
+                }
+            }
+        },
+        "ExampleSecondScreenName": {
+            "labelMap": {
+                "LabelName": {
+                    "value": "value",
+                    "property": {
+                        "fontName": "fontName",
+                        "size": 0.0
+                    }
+                }
+            }
+        }
+    }
+}
